@@ -1,0 +1,13 @@
+# 1. Clone your fork
+git clone https://github.com/<YOUR_USERNAME>/CypherX-Ultra
+cd CypherX-Ultra
+
+# 2. Install dependencies
+npm install
+
+# 3. Configure environment
+nano settings.js
+# Edit settings.js with your values
+
+# 4. Start the bot
+npm start
